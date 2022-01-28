@@ -1,3 +1,5 @@
+Had some issues importing this project so the commit history is not included unfortunatly.
+
 # IDATG2206 Project - Group 1
 
 ## Methods
